@@ -119,7 +119,7 @@ print "\033[1;97mSecurity,Tool is not Responsible for this Thing..."
 print "\033[1;94m«-----------------\033[1;95mLogin With Tool\033[1;94m----------------»"
 
 CorrectUsername = "saqib"
-CorrectPassword = "Omi"
+CorrectPassword = "saqib"
 
 loop = 'true'
 while (loop == 'true'):
